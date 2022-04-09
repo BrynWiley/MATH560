@@ -1,4 +1,4 @@
-# MATH560
+# MATH560 Final Project Supplementary Material - Bryn Wiley
 
 This repository contains the R code for the stochastic simulations run in "A Stochastic Simulation of Tasmanian Devil Face Tumor
 Epidemiology". 
